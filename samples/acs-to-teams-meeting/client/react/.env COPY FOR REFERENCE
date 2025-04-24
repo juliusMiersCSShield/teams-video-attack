@@ -1,0 +1,2 @@
+REACT_APP_TEAMS_MEETING_FUNCTION=http://localhost:7071/api/httpTriggerTeamsUrl
+REACT_APP_ACS_USER_FUNCTION=http://localhost:7071/api/httpTriggerAcsToken
