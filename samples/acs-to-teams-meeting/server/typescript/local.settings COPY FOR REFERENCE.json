@@ -6,7 +6,7 @@
         "CLIENT_ID": "81964ddb-7cdc-490e-8cf5-5ebfe75ef61d",
         "CLIENT_SECRET": "sa88Q~lph~nQDIN~VXkuWtWmSUSJasub1D5PLc2L",
         "USER_ID": "337840e5-c1f4-4652-96be-0895cfa99010",
-        "ACS_CONNECTION_STRING": "endpoint=https://teams-video-attack2.germany.communication.azure.com/;accesskey=398WqtNWRdPuFyZXKh5cOurKZGOaFwhBnEuaHEZyeo8jgBE1cBh2JQQJ99BDACULyCptnqafAAAAAZCStQFh"
+        "ACS_CONNECTION_STRING": "endpoint=https://teams-text-attack-v2-commresource.europe.communication.azure.com/;accesskey=5uLWZhX1xYEPbtQzkHYbQExTWpf8nuwUIjKBGSOYwGgeaIF4Cno1JQQJ99BDACULyCptnqafAAAAAZCSy6M4"
     },
     "Host": {
         "LocalHttpPort": 7071,
